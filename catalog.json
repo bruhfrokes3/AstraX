@@ -3,9 +3,9 @@
   "clients": [
     {
       "id": "nursultan",
-      "name": "Nursultan Client",
-      "version": "1.21.1",
-      "description": "Популярный PvP-клиент с широким набором оптимизаций и модулей.",
+      "name": "Nursultan",
+      "version": "3.4.1",
+      "description": "A powerful Minecraft utility client with advanced combat assist, movement hacks, visual ESP, and anti-cheat bypass modules. Compatible with most popular servers.",
       "category": "PvP",
       "iconUrl": "",
       "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/nursultan.zip",
@@ -13,26 +13,37 @@
       "size": 150000000
     },
     {
-      "id": "celestial",
-      "name": "Celestial Client",
-      "version": "1.20.4",
-      "description": "Клиент для комфортной игры с высокой частотой кадров (FPS boost).",
-      "category": "FPS Boost",
+      "id": "delta",
+      "name": "Delta",
+      "version": "1.9.0",
+      "description": "Popular combat and utility client with robust bypasses and clean aesthetic interface.",
+      "category": "Anarchy",
       "iconUrl": "",
-      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/celestial.zip",
+      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/delta.zip",
       "sha256": "",
       "size": 120000000
     },
     {
-      "id": "delta",
-      "name": "Delta Client",
-      "version": "1.16.5",
-      "description": "Классический проверенный временем клиент с набором удобных функций.",
-      "category": "Classic",
+      "id": "celestial",
+      "name": "Celestial",
+      "version": "1.8.1",
+      "description": "High FPS optimized client with visual customization, smooth animations and combat modules.",
+      "category": "FPS Boost",
       "iconUrl": "",
-      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/delta.zip",
+      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/celestial.zip",
       "sha256": "",
       "size": 95000000
+    },
+    {
+      "id": "catlavan",
+      "name": "Catlavan",
+      "version": "2.1.0",
+      "description": "Next generation utility client featuring smooth animations, clean HUD and stealth bypasses.",
+      "category": "Utility",
+      "iconUrl": "",
+      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/catlavan.zip",
+      "sha256": "",
+      "size": 110000000
     }
   ]
 }
