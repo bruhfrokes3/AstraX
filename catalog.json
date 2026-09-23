@@ -2,84 +2,11 @@
   "version": 1,
   "clients": [
     {
-      "id": "nursultan",
-      "name": "Nursultan",
-      "version": "1.21.1",
-      "minecraftVersion": "1.21.1",
-      "loader": "Fabric",
-      "description": "Популярный PvP-клиент для Minecraft 1.21.1 с широким набором функций и оптимизацией производительности.",
-      "category": "PvP",
-      "iconUrl": "",
-      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/nursultan.jar",
-      "sha256": "",
-      "size": 45000000,
-      "dependencies": [
-        {
-          "name": "Fabric API 1.21.1",
-          "fileName": "fabric-api-0.102.0+1.21.1.jar",
-          "downloadUrl": "https://github.com/FabricMC/fabric/releases/download/v0.102.0%2B1.21.1/fabric-api-0.102.0+1.21.1.jar"
-        }
-      ]
-    },
-    {
-      "id": "delta",
-      "name": "Delta",
-      "version": "1.20.4",
-      "minecraftVersion": "1.20.4",
-      "loader": "Fabric",
-      "description": "Клиент для анархо-серверов и выживания на версии Minecraft 1.20.4.",
-      "category": "Anarchy",
-      "iconUrl": "",
-      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/delta.jar",
-      "sha256": "",
-      "size": 38000000,
-      "dependencies": [
-        {
-          "name": "Fabric API 1.20.4",
-          "fileName": "fabric-api-0.97.0+1.20.4.jar",
-          "downloadUrl": "https://github.com/FabricMC/fabric/releases/download/v0.97.0%2B1.20.4/fabric-api-0.97.0+1.20.4.jar"
-        }
-      ]
-    },
-    {
-      "id": "celestial",
-      "name": "Celestial",
-      "version": "1.16.5",
-      "minecraftVersion": "1.16.5",
-      "loader": "Forge",
-      "description": "Классический оптимизированный клиент на базе Minecraft 1.16.5.",
-      "category": "Classic",
-      "iconUrl": "",
-      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/celestial.jar",
-      "sha256": "",
-      "size": 32000000,
-      "dependencies": []
-    },
-    {
-      "id": "catlavan",
-      "name": "Catlavan",
-      "version": "1.21.1",
-      "minecraftVersion": "1.21.1",
-      "loader": "Fabric",
-      "description": "Клиент нового поколения под версию Minecraft 1.21.1 с плавной анимацией интерфейса.",
-      "category": "Utility",
-      "iconUrl": "",
-      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/catlavan.jar",
-      "sha256": "",
-      "size": 42000000,
-      "dependencies": [
-        {
-          "name": "Fabric API 1.21.1",
-          "fileName": "fabric-api-0.102.0+1.21.1.jar",
-          "downloadUrl": "https://github.com/FabricMC/fabric/releases/download/v0.102.0%2B1.21.1/fabric-api-0.102.0+1.21.1.jar"
-        }
-      ]
-    },
-    {
+      
       "id": "durex_visual",
       "name": "Durex Visual",
-      "version": "1.21.1",
-      "minecraftVersion": "1.21.1",
+      "version": "1.21.11",
+      "minecraftVersion": "1.21.11",
       "loader": "Fabric",
       "description": "Визуальный мод с ESP, трейсерами и подсветкой энтитей.",
       "category": "Visual",
@@ -89,9 +16,9 @@
       "size": 15000000,
       "dependencies": [
         {
-          "name": "Fabric API 1.21.1",
-          "fileName": "fabric-api-0.102.0+1.21.1.jar",
-          "downloadUrl": "https://github.com/FabricMC/fabric/releases/download/v0.102.0%2B1.21.1/fabric-api-0.102.0+1.21.1.jar"
+          "name": "Fabric API 1.21.11",
+          "fileName": "fabric-api-0.102.0+1.21.11.jar",
+          "downloadUrl": "https://github.com/FabricMC/fabric/releases/download/v0.102.0%2B1.21.1/fabric-api-0.102.0+1.21.11.jar"
         }
       ]
     }
