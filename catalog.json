@@ -2,23 +2,22 @@
   "version": 1,
   "clients": [
     {
-      
       "id": "durex_visual",
       "name": "Durex Visual",
       "version": "1.21.11",
       "minecraftVersion": "1.21.11",
       "loader": "Fabric",
-      "description": "Визуальный мод с ESP, трейсерами и подсветкой энтитей.",
+      "description": "Визуальный чит-клиент с продвинутым ESP, трейсерами игроков, подсветкой сундуков и адаптивным HUD.",
       "category": "Visual",
       "iconUrl": "",
-      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/v1.0.0/durex_visual.jar",
+      "downloadUrl": "https://github.com/bruhfrokes3/AstraX/releases/download/Durex_Visual/durex-1.21.11-hacked.jar",
       "sha256": "",
-      "size": 15000000,
+      "size": 18481152,
       "dependencies": [
         {
-          "name": "Fabric API 1.21.11",
-          "fileName": "fabric-api-0.102.0+1.21.11.jar",
-          "downloadUrl": "https://github.com/FabricMC/fabric/releases/download/v0.102.0%2B1.21.1/fabric-api-0.102.0+1.21.11.jar"
+          "name": "Fabric API 1.21.1",
+          "fileName": "fabric-api-0.102.0+1.21.1.jar",
+          "downloadUrl": "https://github.com/FabricMC/fabric/releases/download/v0.102.0%2B1.21.1/fabric-api-0.102.0+1.21.1.jar"
         }
       ]
     }
